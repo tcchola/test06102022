@@ -1,2 +1,2 @@
-# C++ Programming Test
-School Test
+# School test
+C++ Programming Test
